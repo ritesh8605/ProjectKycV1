@@ -1,0 +1,36 @@
+.footer {
+    position: absolute;
+    left: 0vh;
+    bottom: -40vh;
+    width: 100%;
+    background-color: rgb(24, 21, 21);
+    color: white;
+    text-align: center;
+ }
+ .extras {
+    position: absolute;
+    left: 0;
+    bottom: -37vh;
+    width: 100%;
+    height: 33%;
+    background-color: cyan;
+    color: rgb(0, 0, 0);
+ }
+
+ .images{
+   
+   width: 30px;
+   height: 30px;
+   
+ }
+ 
+
+ .middiv{
+    width:65%;
+ }
+
+ .links{
+    font-style: italic;
+    font-size: medium;
+    font-weight: bold;
+ }
